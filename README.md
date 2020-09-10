@@ -1,4 +1,7 @@
-# musician-app
-NodeJS / React sample app for AWS CI/CD pipeline tutorial
+# build a CI/CD pipeline on AWS
+deploy a nodejs application from github to a target env in AWS elastic Beanstalk.
 
-https://www.youtube.com/watch?v=NwzJCSPSPZs
+# tech stack
+Github : AWS code Pipeline : AWS Elastic Beanstalk
+
+
